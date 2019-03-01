@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake", "Snake\Snake.csproj", "{974AE78B-6130-4330-9F14-0317D9678CF0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HM 1", "HM 1\HM 1.csproj", "{66303C81-8FC0-4E82-B7C0-D91187658207}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{974AE78B-6130-4330-9F14-0317D9678CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{974AE78B-6130-4330-9F14-0317D9678CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{974AE78B-6130-4330-9F14-0317D9678CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{974AE78B-6130-4330-9F14-0317D9678CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66303C81-8FC0-4E82-B7C0-D91187658207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66303C81-8FC0-4E82-B7C0-D91187658207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66303C81-8FC0-4E82-B7C0-D91187658207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66303C81-8FC0-4E82-B7C0-D91187658207}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6211BC22-5652-4BF8-BDC3-242C4132D16E}
+		SolutionGuid = {1BA29E71-BC77-4C66-8F6A-C9C1B896368F}
 	EndGlobalSection
 EndGlobal

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{974AE78B-6130-4330-9F14-0317D9678CF0}</ProjectGuid>
+    <ProjectGuid>{66303C81-8FC0-4E82-B7C0-D91187658207}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Snake</RootNamespace>
-    <AssemblyName>Snake</AssemblyName>
+    <RootNamespace>HM_1</RootNamespace>
+    <AssemblyName>HM 1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -35,6 +35,8 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
